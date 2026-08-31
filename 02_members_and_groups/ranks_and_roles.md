@@ -29,7 +29,7 @@ Each guild utilizes a configured rank hierarchy where each tier is defined by na
 
 Assigning or promoting a member requires only two clicks:
 
-1. Open the Guildhall and switch to the **"👥 Members"** tab.
+1. Open the Guildhall and switch to the **"Members"** tab.
 2. Locate the member card of the desired character.
 3. Click the **Rank Dropdown** on the member card.
 4. Select the desired rank from the list.
