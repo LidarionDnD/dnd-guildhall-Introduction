@@ -14,7 +14,7 @@ Find answers to common questions and practical solutions for troubleshooting **D
 ## 1. Frequently Asked Questions (FAQ)
 
 ### Can I run multiple guilds simultaneously in one world?
-Yes. You can create unlimited independent guilds. Each guild maintains its own custom banner, member roster, group divisions, rank hierarchy, 3-column quest board, and unique color theme.
+Yes. You can create unlimited independent guilds. Each guild maintains its own custom banner, member roster, group divisions, rank hierarchy and quest board.
 
 ### How do World Quests differ from Guild Quests?
 Guild Quests belong to a specific organization and appear on that guild's board. World Quests are unassigned global contracts that appear in the top-level **World Quests** section of the Quest Sidebar and are accessible across all factions.
