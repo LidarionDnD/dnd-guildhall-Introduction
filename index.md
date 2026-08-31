@@ -4,11 +4,11 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to DnD Guildhall
+# Welcome to **5e Guildhall & Adventures**
 
-**DnD Guildhall** is a powerful, immersive, and highly customizable module for **Foundry VTT** (optimized for Foundry VTT Version 14 and the `dnd5e` / D&D 5.5e system). It turns traditional journal and quest bookkeeping into a living, interactive guildhall headquarters complete with a dynamic Kanban quest board, integrated character management, configurable guild regulations, and 21 beautifully crafted theme palettes.
+**Guildhall** is a powerful, immersive, and highly customizable module for **Foundry VTT** (optimized for Foundry VTT Version 14 and the `dnd5e` / D&D 5.5e system). It turns traditional journal and quest bookkeeping into a living, interactive guildhall headquarters complete with a dynamic Kanban quest board, integrated character management, configurable guild regulations, and 21 beautifully crafted theme palettes.
 
-Whether your players belong to a local adventuring guild, a prestigious wizard academy, a clandestine thieves' guild, or a continent-spanning mercenary company — **DnD Guildhall** provides Game Masters and players with all the tools needed for an unforgettable campaign experience.
+Whether your players belong to a local adventuring guild, a prestigious wizard academy, a clandestine thieves' guild, or a continent-spanning mercenary company — **Guildhall** provides Game Masters and players with all the tools needed for an unforgettable campaign experience.
 
 ---
 
@@ -23,7 +23,7 @@ Whether your players belong to a local adventuring guild, a prestigious wizard a
 - **21 Pen & Paper Color Themes:** Select from 21 atmospheric theme presets (Classic Fantasy, Dark Gothic, High Magic, Cyberpunk, Feywild, Shadowfell, Eldritch Void, Steampunk, and more).
 - **Dedicated Foundry Quest Sidebar:** Custom tab in Foundry's right sidebar featuring instant search, accordion folding, quick-hover tooltip previews, and direct World Quest access.
 - **Adventure Compendium Integration:** Export and import entire guild setups, member assignments, and quest networks seamlessly using Foundry VTT Adventure Compendiums.
-- **100% Bilingual (i18n):** Complete, native support for English and German.
+- **Languages:** Complete, native support for English and German.
 
 ---
 
