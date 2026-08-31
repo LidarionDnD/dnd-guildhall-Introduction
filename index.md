@@ -27,6 +27,10 @@ Whether your players belong to a local adventuring guild, a prestigious wizard a
 
 ---
 
+<img width="1063" height="821" alt="Image" src="https://github.com/user-attachments/assets/f8a9e99c-f6da-48c4-9c22-8e329055b48b" />
+
+---
+
 ## Documentation Structure
 
 The documentation is organized into six chapters:
