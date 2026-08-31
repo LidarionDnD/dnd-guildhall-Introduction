@@ -22,7 +22,7 @@ Groups provide versatile ways to organize your roster:
 
 ## 2. Creating a New Group
 
-1. Open the Guildhall and switch to the **"👥 Members"** tab.
+1. Open the Guildhall and switch to the **"Members"** tab.
 2. In the top right corner of the member roster, click **"+ Add Group"**.
 3. In the input dialog, type your desired group name (e.g. *"High Council"* or *"Vanguard Strike Force"*).
 4. Click **"Save"**.
