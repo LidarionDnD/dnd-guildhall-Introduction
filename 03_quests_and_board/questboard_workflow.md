@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The 3-Column Quest Board Workflow
+title: Quest Board Workflow
 parent: Quests & Quest Board
 nav_order: 1
 ---
 
-# The 3-Column Quest Board Workflow
+# Quest Board Workflow
 
-The **Quests** tab in **DnD Guildhall** organizes campaign contracts through an interactive, 3-column Kanban board. This structure provides a clear, visual lifecycle for every bounty, mission, and guild task.
+The **Quests** tab in **DnD Guildhall** organizes campaign contracts through an interactive, Kanban board. This structure provides a clear, visual lifecycle for every bounty, mission, and guild task.
 
 ---
 
