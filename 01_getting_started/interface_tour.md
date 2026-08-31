@@ -48,9 +48,9 @@ Upon entering a guild, the view switches to its full headquarters interface:
 
 ### B. Tab Navigation
 The interface is structured into modular, switchable tabs:
-- **Members (`👥 Members`):** Enrolled character roster, departmental group breakdowns, rank assignments, and actor drag-and-drop.
-- **Quests (`📜 Quests`):** 3-column Kanban quest board (*Posted*, *Accepted*, *Completed*) with drag-and-drop reordering.
-- **Rules (`⚖️ Rules`):** Guild hierarchy cards (480px responsive cards), advancement deeds, and custom regulation sections.
+- **Members (`Members`):** Enrolled character roster, departmental group breakdowns, rank assignments, and actor drag-and-drop.
+- **Quests (`Quests`):** 3-column Kanban quest board (*Posted*, *Accepted*, *Completed*) with drag-and-drop reordering.
+- **Rules (`Rules`):** Guild hierarchy cards (480px responsive cards), advancement deeds, and custom regulation sections.
 - **Custom Tabs:** GM-created custom tabs for lore, allied factions, crafting recipes, or hall of fame.
 - **Settings (GM only):** Navigation configuration, 21 color themes, trust levels, and danger zone.
 
