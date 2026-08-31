@@ -14,16 +14,16 @@ Whether your players belong to a local adventuring guild, a prestigious wizard a
 
 ## Feature Highlights
 
-- 🛡️ **Guild Dashboard & Headquarters:** Manage multiple independent guilds with custom banners, member rosters, and dedicated quest boards.
-- 📜 **Interactive Kanban Quest Board:** 3-column workflow (*Posted*, *Accepted*, *Completed*) with intuitive drag-and-drop, visibility indicators, and a 70% ghost drag preview.
-- 🔍 **Immersive Quest Viewer:** Parchment scroll design featuring rich text briefs, private Game Master notes & entity attachments, and automated reward currency splits (`Payout Rewards`).
-- 👥 **Roster & Member Groups:** Organize party members and allied NPCs into functional divisions, assign color-coded guild ranks, and drag actors directly from Foundry's sidebar.
-- ⚖️ **Guild Regulations & Advancement:** Showcase guild ranks in modern 480px cards with detailed promotion criteria and craft unlimited custom rule sections with custom icons.
-- 📑 **Custom Tabs System:** Expand your guildhall with brand new tabs (e.g. "Hall of Fame", "Crafting", "Allies") containing rich text sections.
-- 🎨 **21 Pen & Paper Color Themes:** Select from 21 atmospheric theme presets (Classic Fantasy, Dark Gothic, High Magic, Cyberpunk, Feywild, Shadowfell, Eldritch Void, Steampunk, and more).
-- 📌 **Dedicated Foundry Quest Sidebar:** Custom tab in Foundry's right sidebar featuring instant search, accordion folding, quick-hover tooltip previews, and direct World Quest access.
-- 📦 **Adventure Compendium Integration:** Export and import entire guild setups, member assignments, and quest networks seamlessly using Foundry VTT Adventure Compendiums.
-- 🌐 **100% Bilingual (i18n):** Complete, native support for English and German.
+- **Guild Dashboard & Headquarters:** Manage multiple independent guilds with custom banners, member rosters, and dedicated quest boards.
+- **Interactive Kanban Quest Board:** 3-column workflow (*Posted*, *Accepted*, *Completed*) with intuitive drag-and-drop, visibility indicators, and a 70% ghost drag preview.
+- **Immersive Quest Viewer:** Parchment scroll design featuring rich text briefs, private Game Master notes & entity attachments, and automated reward currency splits (`Payout Rewards`).
+- **Roster & Member Groups:** Organize party members and allied NPCs into functional divisions, assign color-coded guild ranks, and drag actors directly from Foundry's sidebar.
+- **Guild Regulations & Advancement:** Showcase guild ranks in modern 480px cards with detailed promotion criteria and craft unlimited custom rule sections with custom icons.
+- **Custom Tabs System:** Expand your guildhall with brand new tabs (e.g. "Hall of Fame", "Crafting", "Allies") containing rich text sections.
+- **21 Pen & Paper Color Themes:** Select from 21 atmospheric theme presets (Classic Fantasy, Dark Gothic, High Magic, Cyberpunk, Feywild, Shadowfell, Eldritch Void, Steampunk, and more).
+- **Dedicated Foundry Quest Sidebar:** Custom tab in Foundry's right sidebar featuring instant search, accordion folding, quick-hover tooltip previews, and direct World Quest access.
+- **Adventure Compendium Integration:** Export and import entire guild setups, member assignments, and quest networks seamlessly using Foundry VTT Adventure Compendiums.
+- **100% Bilingual (i18n):** Complete, native support for English and German.
 
 ---
 
