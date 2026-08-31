@@ -1,6 +1,0 @@
----
-layout: default
-title: Erste Unterseite
-parent: Kapitel 1
----
-Test für die unterseite
