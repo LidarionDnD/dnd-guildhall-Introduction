@@ -14,7 +14,7 @@ Enrolling characters in your guild takes full advantage of Foundry VTT's intuiti
 ## 1. Adding Characters via Drag & Drop
 
 1. Open the Guildhall from the left toolbar (`fas fa-scroll`) and select the desired guild.
-2. Click the **"👥 Members"** tab.
+2. Click the **"Members"** tab.
 3. Open the **Actors Directory** in Foundry's right sidebar.
 4. Click on an Actor (Player Character, NPC, or creature) and **drag it with your left mouse button** into the Guildhall window.
 5. Drop the actor onto a specific group or into the general roster area.
