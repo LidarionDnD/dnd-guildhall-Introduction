@@ -1,5 +1,6 @@
 ---
+layout: default
 title: Erste Unterseite
-parent: Side_1_1
+parent: Kapitel 1
 ---
 Test für die unterseite
